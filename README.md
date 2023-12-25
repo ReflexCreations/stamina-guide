@@ -62,6 +62,12 @@ As before, being able to modify the bars position easily is a very important fac
 
 Sliding across the center panel is a major factor in improvement. To do that, you should have a smooth surface. For the panel itself, I would suggest either a stainless steel panel, or one like mine, which uses just about any base material, and has layers of primer, paint, and lacquer with hardener on top of it. There's not too much to talk about here, but it should be hard, smooth, flat and stiff. There's a lot more in managing the slideyness of the center panel, but that's a later topic.
 
+### The 'cabinet'
+
+With every good dance pad, you need a good 'cabinet'. This was typically when an arcade cabinet was attached to the dance pads. Nowadays, you can just buy off the shelf stuff. I recommend a monitor with 120-144hz refresh rate and low input latency, and placed at eye level, comfortable for you to see and maintain a neutral posture. The speakers are less important, but if you want to treat yourself, grab a good pair and a subwoofer.
+
+Having actual space for storage in your cabinet is useful, to fit all sorts of various bits you'll use during gameplay. A decent keyboard and mouse that're wireless will be useful, with a place to store those. And the computer you use should be good enough to run ITGMania. Luckily, a toaster is more than enough. I also recommend a webcam, as taking video of your sets will let you re-watch what you do, and find what is and isn't working for you.
+
 ### Closing thoughts
 
 That's about it for the pad. The important part is that you're going to be working within a non-stop iterative process, with variability happening in your body as well as the pad over time. As you can see, there's no simple "get this, and it does everything" answer. Whatever you choose, there's DIY. Getting comfortable with creating the best setup and maintaining it will be a massive benefit to your ability to improve at the game, and with a skill as optimised as this, try to be very aware of the tiny, tiny changes to your pad that might help you.
@@ -93,6 +99,16 @@ You will find that with raised panels, it becomes a lot easier for your form to 
 There's no consensus yet on how far the pivot should be. Logically, we should expect that the less rotation of your feet for left, up and right, and the less movement of the heels, the better you will be. Logically also, having some grip on the panels, by having more pivot, and more foot in contact with the panel, allows you to push off of it onto your next panel. For that reason, try not to focus too hard on the pivot range.
 
 None of this is absolute. I have a slight lean onto my right foot, and my left foot moves more as a result. My left foot also likes to overshoot the down arrow at times, and the heel leaves the center if I'm not careful. The important thing is to be aware of these factors, and work on them.
+
+### Which muscles do I use?
+
+Over time, your muscles will adapt to these motions in terms of their growth. You'll get more efficient in the motion, gain better muscle memory, and learn the tiny optimisations. But one surprising part is the sheer level of co-ordination between your muscles to get good at this game.
+
+With based form, I've found the answer is you use.. basically everything. Your core, lower back, and deltoid muscles tend to be a big deal in terms of keeping you upright and stable. But the legs are powerhouses here, and just about everything is important.
+
+Although your ankle is appearing to pivot, it tends to be more of a whole leg motion. So your hip rotator tends to be a very strong way to build a good pivot. Hip adductors/abductors and hamstrings/quadriceps are also busy producing the outward push motion towards the up/left/right position for the toes, and pulling them back inwards to hit the down arrow. The ankle itself does have some small part in this, too, with just about everything in there being engaged in a lot of the micro-efficient motions, the tibialis anterior doing a lot of the lifting work for pulling your feet upward and downward for hitting multiple of the same panel in a row. The extensor digitorum/hallucis longus are also useful for this, allowing the toes themselves to generate a bit of extra lift for your left/right and up arrows respectively.
+
+You don't need to remember all that, but the important thing is to remember that your whole body is involved in this. Your muscles should be loose, and all looking to do part of the job in getting the push/pull, lift, and rotary motions comfortable.
 
 ### Posture
 
@@ -148,7 +164,21 @@ Based might be the best we have right now, but I'm not convinced that it's the '
 
 For the subjectivity of pattern difficulty, we may one day hope to quantify patterns more. Until that point, top level players will simply say "that chart had insane patterns!" even if it's not at the maximum 'difficulty level' that player can handle. And at this point in time, based players typically prefer bi-directional patterns with lots of sliding, and varying levels of steppiness to keep things interesting.
 
-For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is a lot faster, but considered to have very easy patterns, with lots of sliding.
+For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is faster, but considered to have very easy patterns, with lots of sliding.
+
+## Chart Length
+
+### Marathons
+
+Marathons are 16+ minute stepcharts, consisting mostly of pushes in endurance. They're brilliant for building grit, and muscle strength. However, they have the least yield in terms of raw gain in capability in the game. I would recommend playing a short marathon during your warm up, or warm down. If you're finding faster content difficult, it's also worth playing marathons during your main set, as a fallback. They're a useful skill, and you should be doing them occasionally. I've found though that players who 'main' marathons are more likely to have a hard time relaxing their form, and maintaining consistency at higher speeds. Typically, the ranges are defined by the BPM you can handle. My marathon range tends to be 250-300 at time of writing.
+
+### Midspeed
+
+Midspeed tends to cover songs with a great deal of stream, but not really enough to be a marathon. I find that anything I can sustain 2 minutes of, or more, but less than marathon, I consider to be midspeed. I believe this is the most powerful range of improvement. Midspeed builds incredible consistency. It tends to 'feel' like you can't quite get comfortable, but that you can manage this speed on nearly every set. By playing midspeed, you will become a lot more comfortable with marathons, and you will equally be able to improve how you feel at even higher speeds. I believe this is the best range you can focus on for the most part. For me, midspeed is currently in the range of 300-340.
+
+### Footspeed
+
+Footspeed has typically been bursts of speed. 20 second to 2 minute bursts of speed at your maximum speed tends to define this range. Many players find explosive performance gains at their highest speeds, allowing them to very quickly ascend the ranks in the game. That being said, footspeed is inconsistent, and often referred to as 'dicerolling' due to the lack of predictability. Players who 'main' footspeed often seem to struggle with immunity to many types of patterning, and often struggle with maintaining longer stretches of gameplay. It's a good way to get good, quick, but carries a cost. That being said, footspeed teaches you how to optimise your form in the best way. By going faster, you gain a lot of insight into how to optimise yourself. For me, the range of 340-375 is currently where footspeed is.
 
 ## Structuring your set
 
@@ -160,20 +190,6 @@ This is subjective. If you're newer, then the answer will be less, and gradually
 
 I think the more that you're able to play, the more quickly you will improve, as this is a structured focus. But the quantity of your sessions will greatly influence your experience.
 
-### Benefits of each chart type
-
-#### Marathons
-
-Marathons are 16+ minute stepcharts, consisting mostly of pushes in endurance. They're brilliant for building grit, and muscle strength. However, they have the least yield in terms of raw gain in capability in the game. I would recommend playing a short marathon during your warm up, or warm down. If you're finding faster content difficult, it's also worth playing marathons during your main set, as a fallback. They're a useful skill, and you should be doing them occasionally. I've found though that players who 'main' marathons are more likely to have a hard time relaxing their form, and maintaining consistency at higher speeds. Typically, the ranges are defined by the BPM you can handle. My marathon range tends to be 250-300 at time of writing.
-
-#### Midspeed
-
-Midspeed tends to cover songs with a great deal of stream, but not really enough to be a marathon. I find that anything I can sustain 2 minutes of, or more, but less than marathon, I consider to be midspeed. I believe this is the most powerful range of improvement. Midspeed builds incredible consistency. It tends to 'feel' like you can't quite get comfortable, but that you can manage this speed on nearly every set. By playing midspeed, you will become a lot more comfortable with marathons, and you will equally be able to improve how you feel at even higher speeds. I believe this is the best range you can focus on for the most part. For me, midspeed is currently in the range of 300-340.
-
-#### Footspeed
-
-Footspeed has typically been bursts of speed. 20 second to 2 minute bursts of speed at your maximum speed tends to define this range. Many players find explosive performance gains at their highest speeds, allowing them to very quickly ascend the ranks in the game. That being said, footspeed is inconsistent, and often referred to as 'dicerolling' due to the lack of predictability. Players who 'main' footspeed often seem to struggle with immunity to many types of patterning, and often struggle with maintaining longer stretches of gameplay. It's a good way to get good, quick, but carries a cost. That being said, footspeed teaches you how to optimise your form in the best way. By going faster, you gain a lot of insight into how to optimise yourself. For me, the range of 340-375 is currently where footspeed is.
-
 ### What to play
 
 The session consists of three main parts. There's your warm up, where I would recommend starting at a comfortable level. Each stepchart you play should ramp up in length and/or speed. Your goal is to warm up in a way that keeps you relaxed, and keeping your form controlled for as long as possible in your 'marathon' BPM region, until you enter the region you feel uncomfortable in, the 'midspeed' region. Warming up too fast will often lead you to feeling like you're less in control of your form, and 'explode' more quickly. Over time, you'll figure out what 'too fast' means for you, and how long a warm up should last. I find it's around 30 minutes or so.
@@ -182,7 +198,44 @@ When the warmup is over, you're in the main region of your set. I find this last
 
 Finally, in the warm down region, you tend to be a little bit out of sorts. You're tired, flustered, and it's time to bring the speed down. For me this is about 15-30 minutes. Again, I go with slower, longer stuff in this time, with more pattern heavy charting.
 
+### Failure
+
+When you're in the main region of your set, many players have the temptation to 'only play what they can pass'. This tends to be a good way to build a wall that you can't surmount. Although pushing for passes is always the gold standard, the truth is that failure is a natural part of the speedy improvement process, as it indicates that you're regularly challenging yourself with things that you're not comfortable yet doing, learning the new things that you need to. I fail a great deal of content that I play. Probably well over 50%. The more willing you are to attempt content that you know you may fail on, the less likely you are to develop a form based around assuredness, and more around the peak optimisation strategy to always push yourself beyond your limits.
+
 ## Clothing
 
-### Headwear 
-I would recommend pushing all of your hair backwards, with nothing sticking out. Wear
+### Headwear
+
+I would recommend pushing all of your hair backwards, with no flicks sticking out. Use headbands, sweatbands, hairbands, anything you can. This is to prevent your hair from accumulating sweat, and dripping on the dance pad. Hanging a towel around your shoulders is the next step, keeping just about all of your head and neck sweat behind you, off the pad, and provides a quick way to wipe off during a set.
+
+### Bodywear
+
+This is less important, and just based on comfort. I tend to go with a tank top and loose shorts. Just wear whatever allows you to have good freedom of movement, and keeps you cool. A good pair of padded, fingerless (cycling) gloves will help you have a bit more comfort when holding onto the bar.
+
+### Footwear
+
+This is a game where you use your feet, so footwear is the most important thing about clothing to consider.
+
+There are lots of different types of socks to try out. Typically, you'll be wanting multiple layers. This is a pretty good [Medium article](https://nguvinc.medium.com/itg-stamina-socks-3be04b0c57d8) on the subject. I've found the most luck with two outer layers, the first being a soft bamboo fiber, and the outermost being a thicker, partly PTFE fiber based sock.
+
+Moisture control is important to maintain a slidey surface beneath your feet. For that reason, it's often recommended to wear some plastic layer underneath your outer layers of socks to prevent sweat accumulation. Bags specifically for feet are made for salon/spa treatments and are easy to come by. It's a big difference maker, so try it out, even if it sounds stupid.
+
+Underneath bags, it's common to wear some kinds of protection for either your heels, toes, or both. Smashing your heels against the edge of a panel or poking your toes just a little bit over another is going to build up some nasty blisters and hurt. The longer your sessions, also, the longer the contact of your heels with the center panel will begin to hurt. Typically, some mixture of fabric/silicone heel cup, or toe cup will help to provide this protection.
+
+Finally, my inner most layer of socks is just for comfort, and I'll wear anything in there, just so I'm not in direct contact with pieces of plastic and silicone. So this completes the absurd stackup of socks, from inner to outer, with any sock > heel/toe cups > plastic foot bag > bamboo sock > PTFE sock.
+
+This does often yield the question 'why not shoes?' and the answer is simply 'tactile feedback'. Feeling the panels is a big difference maker, as it helps you to learn the control necessary. This is also why I prefer to put more stuff on my heels than on my toes, as it's not anywhere near as important to have strong tactile feedback on my heels, whereas the pivot of my toes requires much better control.
+
+Hopefully one day we will have a big enough sport that we'll have some footwear that you can simply buy, and isn't a nightmare of sweat and anguish, who knows.
+
+## Gameplay
+
+This is a bit of a shorter section, as I'd hope you understand the basics of hitting the arrows. That being said, there's a few features of ITGMania and the game in general that are good to discuss in order to show how they can improve your gameplay.
+
+To start with, the scroll modifier is how fast the arrows move towards the receptors. I find that the longer a chart tends to be, the slower I want the arrows to scroll. I play marathons around C820, and footspeed around C870. If you find that you are playing significantly early (check out the timing distribution graph on the results screen after you play a song), then you can experiment with speeding up the scroll modifier, which you may find makes your timing less early. The reason this is useful is that this game awards more lifebar recovery for better timing. If your timing is better, then you naturally have a harder time failing a stepchart. So changing around your scroll modifier will is a great way to get some free failure immunity.
+
+You should turn on the features for a 'measure counter' based on 16ths, having the 'density graph' above your gameplay field, displaying 'step statistics', tracking 'held misses', and having a profile that remembers these parameters. These are all useful features to help you keep track of what's going on in the game, anticipate upcoming difficult sections, and get good data feedback.
+
+In based form, the slideyness often results in a poorer timing distribution than other forms. This is okay, and not something worth tightening up an awful lot, as the looser your timing is, the more loose you can be in how you process, chunk together, and execute the motions. Checking the timing distribution graph after your song, if it becomes quite late, then it means you're running out of time to hit the arrows quite quickly. If you have to choose, it's always better, therefore, to be earlier than later, as you then grant yourself further time to react to more difficult to execute patterns.
+
+After your song is played, check out the breakdown of timing judgments by panel in the score screen. This is the key insights into the synergy between your form and the pad. Lots of decents/way offs may be indicative of issues with either your panel being too sensitive, or a form error (often, hitting the panels when you shouldn't). Lots of held misses on a panel will also indicate that the panel is too sensitive, whereas lots of .. missed.. misses, means that you've likely not got your panel sensitive enough. Finally, an annoying split can occur where you get lots of decents/way offs, and lots of missed misses. In this case, the only options are to either do a deep dive into what's happening with your form/pad, or if you're lucky and have this feature, adjust the 'off' threshold of your panel sensors. This allows you to trigger it with low pressure, but not let it untrigger/retrigger with minor vibrations or changes in movement.
