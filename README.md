@@ -94,9 +94,29 @@ There's no consensus yet on how far the pivot should be. Logically, we should ex
 
 None of this is absolute. I have a slight lean onto my right foot, and my left foot moves more as a result. My left foot also likes to overshoot the down arrow at times, and the heel leaves the center if I'm not careful. The important thing is to be aware of these factors, and work on them.
 
+### Posture
+
+'Your best posture is your next posture' is a pretty strong quote used to describe how people should sit/stand, and it equally applies to dance game posture. Posture is dynamic, and the more you modulate it, the more options you'll have when you play. This is especially true in marathons, where I'll constantly be shifting my weight in order to find my comfort in different places.
+
+Typically, top players seem to have either a forward or backward lean, that shifts throughout gameplay. By leaning backwards, players are putting more of their weight onto the bar, and less on their heels. This makes movement easier, so is especially useful at lower speeds.
+
+With more difficult patterning, or faster speeds, players often start to lean forwards. This helps give you control, pushing your toes further down and being able to shift your weight more easily.
+
+I would describe the difference between the two as 'backward' lean being more deliberate to find comfort, and 'forward' lean being more automatic. I've often tried to lean forward to improve my control, but as I do it deliberately, it doesn't help me. When I lean forward and I'm performing well, my body shifts its position a lot. This is what I mean by exerting control with the position of my body. It's more of an automatic response. My body leans forward and shifts around to stay in control of complexity it can't easily handle.
+
+Try to experiment with your posture a little. You'll find it's very important during longer charts, and much easier to find optimisations for. But when it comes to mid and high speeds, your posture's going to likely shift naturally throughout the song, becoming gradually more and more forward as you lose control.
+
+### PUSH! GO! Chill.
+
+Players often used to scream at each other when playing. This game was very, very high energy. You would overcome your boundaries by putting more and more of your power into it, gasping for air and trying not to cry.
+
+Based form doesn't allow this. With based form, the harder you push the more likely you are to experience 'form explosion', where your feet move too far, and you're unable to drag them back to the next panel in a controlled manner, resulting in a rapid loss of life.
+
+In based form, you should be trying to stay in control. It's a calm motion. Of course, there's always going to be a bit of push as you tighten up, but the goal is to keep your muscles loose, and your form under control. It can be frustrating to lose control. For me, the anticipation of passing something hard is enough to spike my adrenaline and cause me to lose control. But that's the new challenge. Not raw power, but determined, controlled power.
+
 ### Injury
 
-Based also introduced me to my first non-trivial dance game injury, as it has with several people. Going so fast, getting that good, that quickly, being able to go so hard for so long, it's very tempting to push yourself too far, or to ignore the advice to settle down, because you feel fine. I know, because I ran tendons first into that issue.
+Based form also introduced me to my first non-trivial dance game injury, as it has with several people. Going so fast, getting that good, that quickly, being able to go so hard for so long, it's very tempting to push yourself too far, or to ignore the advice to settle down, because you feel fine. I know, because I ran tendons first into that issue.
 
 I got digitorum longus extensor tendonitis in my right foot. The quick gains I made by going too hard were very much offset by my nine month recovery. Ultimately, you can't _just_ slide. Depending on the patterns, your feet may already be on the panel they're meant to hit next, in which case, you will need to lift a little, or rock/micro-pivot in some way. This isn't as much about logic as it is about practice. You eventually get comfortable with the movements. But my major suggestion here is don't play in pain. And for at least the first six months, please avoid any longer marathons. 
 
@@ -130,3 +150,39 @@ For the subjectivity of pattern difficulty, we may one day hope to quantify patt
 
 For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is a lot faster, but considered to have very easy patterns, with lots of sliding.
 
+## Structuring your set
+
+### When to play
+
+For set structure, there's two main questions players often ask. 'How often should I play?' and 'how long should I play?'.
+
+This is subjective. If you're newer, then the answer will be less, and gradually ramp up. But consistency appears to be key. My opinionated answer is that I prefer two days on, one day off, and for my two days to be sessions of 1hr30min on average. If I'm in any amount of pain, I will take more time off, and every couple of months, take an active recovery break.
+
+I think the more that you're able to play, the more quickly you will improve, as this is a structured focus. But the quantity of your sessions will greatly influence your experience.
+
+### Benefits of each chart type
+
+#### Marathons
+
+Marathons are 16+ minute stepcharts, consisting mostly of pushes in endurance. They're brilliant for building grit, and muscle strength. However, they have the least yield in terms of raw gain in capability in the game. I would recommend playing a short marathon during your warm up, or warm down. If you're finding faster content difficult, it's also worth playing marathons during your main set, as a fallback. They're a useful skill, and you should be doing them occasionally. I've found though that players who 'main' marathons are more likely to have a hard time relaxing their form, and maintaining consistency at higher speeds. Typically, the ranges are defined by the BPM you can handle. My marathon range tends to be 250-300 at time of writing.
+
+#### Midspeed
+
+Midspeed tends to cover songs with a great deal of stream, but not really enough to be a marathon. I find that anything I can sustain 2 minutes of, or more, but less than marathon, I consider to be midspeed. I believe this is the most powerful range of improvement. Midspeed builds incredible consistency. It tends to 'feel' like you can't quite get comfortable, but that you can manage this speed on nearly every set. By playing midspeed, you will become a lot more comfortable with marathons, and you will equally be able to improve how you feel at even higher speeds. I believe this is the best range you can focus on for the most part. For me, midspeed is currently in the range of 300-340.
+
+#### Footspeed
+
+Footspeed has typically been bursts of speed. 20 second to 2 minute bursts of speed at your maximum speed tends to define this range. Many players find explosive performance gains at their highest speeds, allowing them to very quickly ascend the ranks in the game. That being said, footspeed is inconsistent, and often referred to as 'dicerolling' due to the lack of predictability. Players who 'main' footspeed often seem to struggle with immunity to many types of patterning, and often struggle with maintaining longer stretches of gameplay. It's a good way to get good, quick, but carries a cost. That being said, footspeed teaches you how to optimise your form in the best way. By going faster, you gain a lot of insight into how to optimise yourself. For me, the range of 340-375 is currently where footspeed is.
+
+### What to play
+
+The session consists of three main parts. There's your warm up, where I would recommend starting at a comfortable level. Each stepchart you play should ramp up in length and/or speed. Your goal is to warm up in a way that keeps you relaxed, and keeping your form controlled for as long as possible in your 'marathon' BPM region, until you enter the region you feel uncomfortable in, the 'midspeed' region. Warming up too fast will often lead you to feeling like you're less in control of your form, and 'explode' more quickly. Over time, you'll figure out what 'too fast' means for you, and how long a warm up should last. I find it's around 30 minutes or so.
+
+When the warmup is over, you're in the main region of your set. I find this lasts around 45 minutes. I try to get as much midspeed into this range as possible. On days where I feel physically strong, my midspeed tends towards the higher part of my region. This is when I might take my chance at some footspeed to get my absolute maximum up. On days where I feel weaker, I struggle to even stay in midspeed. This is when I will consider a marathon instead, or alternatively, something slower with more heavy patterns that I'm not used to. With this in mind, I'm always finding something I can improve upon.
+
+Finally, in the warm down region, you tend to be a little bit out of sorts. You're tired, flustered, and it's time to bring the speed down. For me this is about 15-30 minutes. Again, I go with slower, longer stuff in this time, with more pattern heavy charting.
+
+## Clothing
+
+### Headwear 
+I would recommend pushing all of your hair backwards, with nothing sticking out. Wear
