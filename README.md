@@ -84,7 +84,15 @@ As Dom points out in his video, you're not moving your feet. Your toes have a pi
 
 At first, I had a hard time adjusting. I dropped from level 20 back to level 9. It wasn't nice. The panels never seemed to trigger, so I had to mess around a lot with my panel heights and my panel sensitivities. I couldn't keep my heels on the center panel. Then I started getting better. I noticed on marathons that my back simply didn't hurt anymore, like it used to as I wasn't regularly lifting my heels and causing stress on my back. I noticed that I wasn't becoming exhausted anymore, because my movement was so reduced. My sessions became longer, more frequent.
 
+### Optimisation
+
 I learned how to slide with this form the most, as the movement became easier to master. This is because in based, all my heels are doing is moving up and down, in a push and pull motion, while my toes handle the pivoting motion. Having your feet always firmly putting your bodyweight on the center panel let's you move at unbelievable speed.
+
+You will find that with raised panels, it becomes a lot easier for your form to be controlled. A higher down arrow will prevent your heel from sliding over the edge, and helps you to remain with your heels firmly on the center panel, relying mostly on a 'bumping' motion to hit the down. For left and right, a slight raise allows the the toes to more easily apply pressure without extending too far. For the up arrow, a large raise prevents the foot from pushing over it, only allowing the toes the maximum movement. Again, this is iterative and requires regular change and experimentation. But over time, if you're doing it right, your panels should be raising and improving your form.
+
+There's no consensus yet on how far the pivot should be. Logically, we should expect that the less rotation of your feet for left, up and right, and the less movement of the heels, the better you will be. Logically also, having some grip on the panels, by having more pivot, and more foot in contact with the panel, allows you to push off of it onto your next panel. For that reason, try not to focus too hard on the pivot range.
+
+None of this is absolute. I have a slight lean onto my right foot, and my left foot moves more as a result. My left foot also likes to overshoot the down arrow at times, and the heel leaves the center if I'm not careful. The important thing is to be aware of these factors, and work on them.
 
 ### Injury
 
@@ -94,5 +102,31 @@ I got digitorum longus extensor tendonitis in my right foot. The quick gains I m
 
 Marathons will cause the most repetitive strain, and aren't worth it at this stage. They're not the best way to improve. The unoptimised, new movement that's honestly quite unnatural to your body carries the tendonitis risk. Don't play in pain, it's not worth the risk. If you're feeling the strain, take a break from the game. Start again when you're no longer feeling it. Trust me that any of the amazing, explosive gain I made in those few first months of based were quickly offset by the nine month recovery. If I'd have gone at half the speed, I'd have done far better, far quicker, with just a bit of patience.
 
-After my second season with based form, I can say now that I just don't face tendonitis anymore. The movement is natural enough to me, now, and injury appears to be at bay, for now, and I'm good to do lots of marathons.
+After my second season with based form, I can say now that I just don't face tendonitis anymore. The movement is natural enough to me, now, and injury appears to be at bay, for now, and I'm good to do lots of marathons and just about any content I like.
+
+## Patterns
+
+### Steppy and slidey
+
+Checking out the [Stamina Pattern Reference Guide](https://nvplus.github.io/itg-guide/patterns.html), I'll use this as reference when talking about patterning for this section. There's a few terms that will help understanding of how this all works and applies to based. Players often refer to patterns as either 'slidey' or 'steppy'. 'Slidey' patterns on this page are exampled by the different staircases, helicopters and zeta slides, and 'steppy' by hipbreakers, luchis,towers, etc. Something is steppy if you are lifting your feet to hit panels multiple times in a row, and slidey if you are always moving your feet from panel to panel instead. For based form, it appears that sliding is the king, allowing you to rapidly trigger a lot of panels through quick pivots and panel-bumping with minimal foot raising. Does that mean it's the only thing that you can do with based? No.
+
+My experience of based is that although it tends to work best with slidey patterns, based is still best when it comes to most patterns. I may've improved massively with sliding patterns in based form, but I've also improved at steppy patterns, just not as much. Nonetheless, depending on the proportion of slidey to steppy patterns, my experience of a stepchart can greatly change. This has always been the case with any form I've had, with deficiencies and optimisations being applicable to all. But based has allowed me to conquer a hell of a lot more than I've done with any other form.
+
+### Mono-directional
+
+Mono-directional or 'mono' patterns are those in which the foot hitting the up and down arrow does not alternate. This naming comes from the oldest form of high-level stamina play, where players would be positioned mostly over the brackets of the panels, with 'facing right' indicating a player with their right foot on the down and right panels, and left foot on up and left, and 'facing left' with their right foot on up and right, and left foot on down and left. For a good example of mono patterns, a double staircase is a mono-directional pattern, an alternating staircase is not.
+
+Back in those dark ages, 'mono' was considered to be lazy, easy patterning, due to the fact that you 'didn't have to move'. Nowadays, it throws off most optimised forms and is considered much harder to execute. At high speeds, mono patterning keeps your form unbalanced.
+
+### Why don't patterns affect difficulty?
+
+The truth is, they do, very much. If you made a chart of only tower patterns, I probably would be reduced to around half of my maximum speed and longevity.
+
+The problem is, patterning is subjective. As I mentioned with mono patterns being considered easy in the past (often associated with some pretty crude 2000s name-calling that doesn't fit well into the 2020s), we now consider it far harder. Though it may've been nearly cheating back then, now it's an example used to discredit higher-level form.
+
+Based might be the best we have right now, but I'm not convinced that it's the 'final' form. As we improve, we want to continue to improve, and we change ourselves, and the game to facilitate it. By mostly disregarding patterns in difficulty, it lets us stick to the objective fact that speed and length defines difficulty.
+
+For the subjectivity of pattern difficulty, we may one day hope to quantify patterns more. Until that point, top level players will simply say "that chart had insane patterns!" even if it's not at the maximum 'difficulty level' that player can handle. And at this point in time, based players typically prefer bi-directional patterns with lots of sliding, and varying levels of steppiness to keep things interesting.
+
+For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is a lot faster, but considered to have very easy patterns, with lots of sliding.
 
