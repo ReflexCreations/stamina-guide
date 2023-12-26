@@ -2,8 +2,12 @@
 
 - [Fierra's Guide to Four Panel Stamina](#fierras-guide-to-four-panel-stamina)
    * [Preamble](#preamble)
+   * [Mindset](#mindset)
       + [Wait, but why?](#wait-but-why)
-   * [Picking a dance pad](#picking-a-dance-pad)
+      + [Excuses](#excuses)
+      + [Persistence and failure](#persistence-and-failure)
+      + [Self-improvement](#self-improvement)
+   * [Picking a dance pad setup](#picking-a-dance-pad-setup)
       + [Panel Sensitivity](#panel-sensitivity)
       + [Panel Depth/Height](#panel-depthheight)
       + [Bar positioning](#bar-positioning)
@@ -43,10 +47,6 @@
    * [Stretching](#stretching)
    * [Data Tracking](#data-tracking)
       + [Tracking your song progression](#tracking-your-song-progression)
-   * [Mindset](#mindset)
-      + [Excuses](#excuses)
-      + [Persistence and failure](#persistence-and-failure)
-      + [Self-improvement](#self-improvement)
    * [Closing](#closing)
    * [Resources](#resources)
 
@@ -60,7 +60,7 @@
 
 Hello, I'm Brittany (Fierra) and I'm a dance game player that's heavily invested in upper level 'stamina' gameplay. I wanted to put together a guide that would help compile my thoughts into one place. The guide I'm offering is without consultation of others, and entirely based on my own opinions, unfiltered.
 
-Before that, I want to get introduction and naming out of e way. Four panel 'stamina' based gameplay is heavily based around Dance Dance Revolution, which spawned a competitor in In The Groove. In The Groove became a platform for custom content through arcade cabinets' USB stick support in the mid 2000s. This slowly lead to a scene of high level players pushing their physical boundaries. Dance Dance Revolution songs at the time would span in difficulty from level 1 to 10, and In The Groove, loosely similar, would scale from 1 to 13. Players began to wonder "what about a level 14? or 15?" and created content to fill that gap. Over time, this spawned two rules. If it's faster, it's harder. If it's longer, it's harder. Since that point, those original levels have been a loose basis for all further content, which now spans up to level 40 (sorry, 41, while I was writing the guide). The goal of this guide is to cover what it means to go so fast, and so long, and how to make it so that you, too, can hit the illustrious high level content.
+Before that, I want to get introduction and naming out of the way. Four panel 'stamina' based gameplay is heavily based around Dance Dance Revolution, which spawned a competitor in In The Groove. In The Groove became a platform for custom content through arcade cabinets' USB stick support in the mid 2000s. This slowly lead to a scene of high level players pushing their physical boundaries. Dance Dance Revolution songs at the time would span in difficulty from level 1 to 10, and In The Groove, loosely similar, would scale from 1 to 13. Players began to wonder "what about a level 14? or 15?" and created content to fill that gap. Over time, this spawned two rules. If it's faster, it's harder. If it's longer, it's harder. Since that point, those original levels have been a loose basis for all further content, which now spans up to level 40 (sorry, 41, while I was writing the guide). The goal of this guide is to cover what it means to go so fast, and so long, and how to make it so that you, too, can hit the illustrious high level content.
 
 Due to the historical usage of In The Groove for custom content, the games rules on timing and lifebar have remained at the core of the community well into the 2020s. Players generally prefer an emulator, now, but we don't have an official name. ITG, Post-ITG, Stepmania, Four Panel are all names I've heard used, but to make life easier, I'm going to refer to it as Four Panel or Stamina, to be specific about the content we're covering. The software typically used is [ITGMania](https://itgmania.com).
 
@@ -71,6 +71,9 @@ My strong recommendation for content is to participate in [Stamina RPG](https://
 When I was getting better at the game, I had to talk to higher level players constantly in order to absorb all of the knowledge that they've accumulated, and come up with my own understanding of how it all works. So this guide is just that. A compilation of thoughts of a high level player, opinionated, and long-winded, to act as a reference of potential useful thoughts to help you on your journey.
 
 Finally, I'd advise joining [Stamina Nation](https://staminanation.com/) on Discord. It's a great community that are happy to help anyone whatever their level.
+
+<!-- TOC --><a name="mindset"></a>
+## Mindset
 
 <!-- TOC --><a name="wait-but-why"></a>
 ### Wait, but why?
@@ -83,8 +86,33 @@ The progression of the number of steps you can perform in a given time frame is 
 
 For some of us, this feeling moves into 20 steps per second and above. It's addictive, and it feels incredible, it feels like Dragonball Z, with absurd power levels that go beyond and beyond. And then, you keep pushing speed and stamina until you get to be at the point that I'm at in the video above. And then you keep going, still. I love this game, for its benefits to my physical health, mental wellbeing, the community I've been involved in, the skills I've picked up, and the feeling of pride I get from high level attainments. I've slowly blended my physical skill with my technical skill in improving at the game. It's an incredible synergy, letting both myself and my pad and environment improve. That's why I play, and that's why I want to share what I know.
 
-<!-- TOC --><a name="picking-a-dance-pad"></a>
-## Picking a dance pad
+<!-- TOC --><a name="excuses"></a>
+### Excuses
+
+This is an important section, and one that I've been afraid to write about. I've ran into a lot of excuses when trying to help other players to improve at the game, and reach their goals. People will often discuss body metrics and have done in this game for many years, to explain the differences between players' success within the game. It's scary to talk about this, because it's a delicate subject. My goal is to help others experience how amazing this game feels when you reach the high levels, and if I get my wording wrong, I could very easily push people away from wanting to put their time and energy into this.
+
+I don't see excuses as something to judge people for. I see them as barriers that stand in the way of people's goals. If, deep down, the reasoning a player has for ignoring four panel stamina tactics is "I simply don't want to play this style, or content", then that's not an excuse. It's just a fair, acceptable choice. Nobody should feel compelled to play something as an obligation, and I need to make it clear that this is a game that should be a joy. An excuse is more about pushing your own goals away with the explanation of something that either has no data to back it up, or very loosely applied data.
+
+Excuses aren't sensible. Players of wildly different body types are at the top level, and have no common factors, apart from those of form and session choices, most of which I've tried very much to lay out in this guide. I believe strongly that since none of us are at the physical limit, and no single body type has emerged as the apparent best one, that we're all in uncharted territory, and that just about anyone of reasonable health and non-geriatric age can make it right to the top of the game, should they wish to.
+
+It's also important to remember that an excuse isn't just one that you give for yourself. I'll give a direct example that affected me, and that's 'small feet'. I wear a US7.5 womens. I often heard that big feet were a massive advantage in this game, and even more so for based form. This had a direct influence on me, as a player. It was only after talking to other players that had even smaller feet and had achieved a lot of success that I decided to try the form out for myself, to find that foot size did not affect capability in any noteworthy, meaningfully effective way. How you present your struggles will affect others who relate to you. I think it's best if as a community, we try to act as positive influencers in the pfobfdxxion of others, so I request that anyone reading try their best to avoid making such relations in public spaces.
+
+<!-- TOC --><a name="persistence-and-failure"></a>
+### Persistence and failure
+
+Many of the best players I've met have circumstances that make their improvement process difficult for them, or coinciding health problems. Those issues frustrate them, but they don't allow it to stop them from doing the right things to improve at the game. Their first instinct isn't "I can't do it", it's "How can I do it?". If there is something you identify in the top level players, you shouldn't think "I can't do it that way", if you want to be at that level, you should be looking for any way to change to be part of that.
+
+I think deep down, a lot of the discomfort with change comes from a fear of failure. I understand that, and I have it in other parts of my life. This game has been a safe space for me since I was a child, helping me get away from the parts of my life I didn't feel like I could safely and comfortably fail and improve in. I believe this game is the most beautiful expression of self-improvement and overcoming your own limits. Not everyone in the community will be kind about your experience, and may choose to talk down to you. Some at higher levels, some at lower levels. And I can say simply, they can go fuck themselves, and then come back with a raw ass, and a more humble attitude, and learn to be helpful instead. This opportunity isn't one we should rip away from each other, and we shouldn't tear each other down. I can only hope that as a community, we can be the kind of people who will help people become comfortable, confident, and experience joy with self-improvement. Failure, change and persistence are all part of this journey, and there _are_ correct ways to improve, not all ways are equal, but the way in which we reach those paths needs to be encouraged, not discouraged or mischaracterised.
+
+Surround yourself with people who cheer you on as you go for your goals. Surround yourself with the type of people who, when you fail to meet your goal, won't tell you that you can't, but will try to encourage you and help you to find solutions, and opportunities. And most importantly, be that change. Positively engage with people who are on their improvement journey. Be honest with yourself about what it means to improve, and honest with others, also.
+
+<!-- TOC --><a name="self-improvement"></a>
+### Self-improvement
+
+Finally, self-improvement is the best thing you can get out of this game. My sets often resulted in a lot of anger as I didn't reach my goals. I still have bad days, but they've drastically reduced. I had realised that by becoming angry and sad, I was actually performing _worse_ at the game. It only made sense to then try to control my emotions, and to find ways to focus on things that brought me happier feelings. Now, instead of a miserable, angry breakdown every other set, I'm probably experiencing that once every 20 sets or so. Everything I've written in this guide isn't just 'stuff I do', it's stuff I've decided to do in pursuit of improvement at the game. Using progression in the game as a vehicle for being healthier, fitter, having higher confidence and emotional wellbeing, is amazing. A natural desire to go further in this game can be turned into the best way to become more than you were the day before.
+
+<!-- TOC --><a name="picking-a-dance-pad-setup"></a>
+## Picking a dance pad setup
 
 Firstly, there's only one standardised rule at the moment, and that is the gap between panels. Your center panel should be a square of 11", or 280mm, separating the four cardinal panels you play on. How deep below, or raised above the center panel those cardinal arrows are is fair game. How wide your panels are is also fair game, where some choose a lower-profile 'Travel Pad' style design that's more portable. But whatever you choose, you should make sure your panels are spaced at least 11"/280mm apart, with at most, some small gap of around 1/8" between the cardinal and center panels.
 
@@ -197,13 +225,9 @@ This is a process related to memory, so it's often not a particularly conscious 
 <!-- TOC --><a name="which-muscles-do-i-use"></a>
 ### Which muscles do I use?
 
-Over time, your muscles will adapt to these motions in terms of their growth. You'll get more efficient in the motion, gain better muscle memory, and learn the tiny optimisations. But one surprising part is the sheer level of co-ordination between your muscles to get good at this game.
+Over time, your muscles will adapt to these motions in terms of their growth. You'll get more efficient in the motion, gain better muscle memory, and learn the tiny optimisations. But one surprising part is the sheer level of co-ordination between your muscles to get good at this game. With based form, I've found that you use basically everything. 
 
-With based form, I've found the answer is you use.. basically everything. Your core, lower back, and deltoid muscles tend to be a big deal in terms of keeping you upright and stable. But the legs are powerhouses here, and just about everything is important.
-
-Although your ankle is appearing to pivot, it tends to be more of a whole leg motion. So your hip rotator tends to be a very strong way to build a good pivot. Hip adductors/abductors and hamstrings/quadriceps are also busy producing the outward push motion towards the up/left/right position for the toes, and pulling them back inwards to hit the down arrow. The ankle itself does have some small part in this, too, with just about everything in there being engaged in a lot of the micro-efficient motions, the tibialis anterior doing a lot of the lifting work for pulling your feet upward and downward for hitting multiple of the same panel in a row. The extensor digitorum/hallucis longus are also useful for this, allowing the toes themselves to generate a bit of extra lift for your left/right and up arrows respectively.
-
-You don't need to remember all that, but the important thing is to remember that your whole body is involved in this. Your muscles should be loose, and all looking to do part of the job in getting the push/pull, lift, and rotary motions comfortable.
+For your balance, I find that you're constantly using a mixture of your upper arms, shoulders, core, upper and lower back. For the push and pull motion of your heels in based form, I tend to use basically everything in my thighs, and a lot of my hips. For the pivot motion in the ankle, it's never just the ankle, it's the hips, too. The muscles in your shins and even the toes are busy handling the lifting motion to hit multiple of the same panel in the row. A whole body motion relying on co-ordination is a complicated skill, and has a lot of layers of optimisation. As with most sports, you can't simply be told to do the thing, and then do the thing. You'll need to try, study your successes and failures, find your next approach, refine, and optimise. You don't have to remember all of the muscle groups, but what will help you a great deal is if throughout your set you ask "Could this motion be made easier with different positioning/support?"
 
 <!-- TOC --><a name="posture"></a>
 ### Posture
@@ -266,7 +290,7 @@ Based might be the best we have right now, but I'm not convinced that it's the '
 
 For the subjectivity of pattern difficulty, we may one day hope to quantify patterns more. Until that point, top level players will simply say "that chart had insane patterns!" even if it's not at the maximum 'difficulty level' that player can handle. And at this point in time, based players typically prefer bi-directional patterns with lots of sliding, and varying levels of steppiness to keep things interesting.
 
-For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is faster, but considered to have very easy patterns, with lots of sliding.
+For a visual example, [Mission Complete](https://www.youtube.com/watch?v=nPM3f4w8MFM) was a very hard 'patterny' chart at level 28 for me. [Departure 6 FB](https://www.youtube.com/watch?v=iB9FIKxP6mY), is faster, but considered to have very easy patterns, with lots of sliding. It's a hard balance to show a visual example, as the slower a chart is, the less patterns will affect the difficulty, and the faster it is, the less that most players will feel comfortable relating to it. I'd advise ramping the videos down to 0.25x rate and noting the difference in my stance between the 'steppy' Mission Complete, and the 'slidey' Departure 6 FB.
 
 <!-- TOC --><a name="chart-length"></a>
 ## Chart Length
@@ -294,9 +318,9 @@ Footspeed has typically been bursts of speed. 20 second to 2 minute bursts of sp
 
 For set structure, there's two main questions players often ask. 'How often should I play?' and 'how long should I play?'.
 
-This is subjective. If you're newer, then the answer will be less, and gradually ramp up. But consistency appears to be key. My opinionated answer is that I prefer two days on, one day off, and for my two days to be sessions of 1hr30min on average. If I'm in any amount of pain, I will take more time off, and every couple of months, take an active recovery break.
+Consistency appears to be key. My opinionated answer is that I prefer two days on, one day off, and for my two days to be sessions of 1hr30min on average. If I'm in any amount of pain, I will take more time off, and every couple of months, take an active recovery break, where I do other things, and let my muscles recover from the difficulty they've experienced. Cyxsound plays for five days per week, and this appears to be about the absolute maximum out of the high level players, and even he can take some more extended breaks when he feels the need.
 
-I think the more that you're able to play, the more quickly you will improve, as this is a structured focus. But the quantity of your sessions will greatly influence your experience.
+If you're newer, then chances are, you're not going to be playing two on, one off, 1hr30 sets, and if you do, then you're probably pushing it a bit too far. This is what I did, and it brought my body to a level of overtraining that wasn't helpful at all. I think there are two things to focus on when picking your set scheduling. The first focus is to be aware of the symptoms of overtraining, and to identify them in yourself. If you find that you're becoming irritable, particularly tired, seem to be losing power as you play more, then you're probably not doing yourself much good by playing so often. The second is how you feel about your sets, emotionally. If you're treating your sets as a miserable obligation, chances are, you won't enjoy them enough, and you'll want to stop doing them, rather than ramping up. If you prefer a more prescriptive approach, I'm going to say start with two days per week, one on the weekend, one mid-week, 1hr30 per session, and adjust from there.
 
 <!-- TOC --><a name="what-to-play"></a>
 ### What to play
@@ -401,36 +425,8 @@ The main form of tracking you should do isn't block level. This is why people of
 
 I like to track data from each song pack. I keep a spreadsheet of song packs that I own, and note each stepcharts BPM, length, and block level difficulty, as well as giving them a marker to denote pattern difficulty in terms of 'easy', 'medium', 'hard', and 'very hard'. I then have data tracking the number of songs left in each BPM tier, the total time remaining of the pack and the number of songs left in each block level difficulty tier. By doing this, it creates an incentive to play well rounded content, and to provide meaning in all stages of my session. Warmups become about passing new things that I've not encountered before. Warmdowns become much of the same. This is also why Stamina RPG has emerged as the king of progression in high level dance games. The tournament tracks your passes, and provides unlock and quest incentives. I would recommend strongly to start up an account, and begin setting lots, and lots of mini goals while participating in Stamina RPG. "I want to finish off the 150bpm charts" is a powerful motivator, and having as many motivators as possible gives you lots of focus opportunities in your set, even if things aren't quite going your way.
 
-<!-- TOC --><a name="mindset"></a>
-## Mindset
-
-<!-- TOC --><a name="excuses"></a>
-### Excuses
-
-This is an important section, and one that I've been afraid to write about. I've ran into a lot of excuses when trying to help other players to improve at the game, and reach their goals. "My feet are too small", "I'm too old", "I don't think you need to do x to become good, because what about y person?", "Most of getting good is about x, so y isn't as important", "Some of us are just better than others because of genetics".
-
-The truth is, when I read this, I see something else. "I'm uncomfortable with change". It's scary to talk about this, because it's a delicate subject. My goal is to help others experience how amazing this game feels when you reach the high levels, so I don't see excuses as something to judge people for. I see them as barriers that stand in the way of people's goals. If, deep down, the reasoning is "I simply don't want to play this style, or content", then that's not an excuse. It's just a fair, acceptable choice. An excuse is the putting off of your own goals, and finding an external reason that doesn't map.
-
-Excuses aren't sensible. Players of wildly different body types are at the top level, and have no common factors, apart from those of form and session choices, most of which I've tried very much to lay out above in this guide. I believe strongly that since none of us are at the physical limit, and no single body type has emerged as the apparent best one, that we're all in uncharted territory, and that just about anyone of reasonable health and non-geriatric age can make it right to the top of the game, should they wish to.
-
-<!-- TOC --><a name="persistence-and-failure"></a>
-### Persistence and failure
-
-Many of the best players I've met have circumstances that make their improvement process difficult for them, or coinciding health problems. Those issues frustrate them, but they don't allow it to stop them from doing the right things to improve at the game. Their first instinct isn't "I can't do it", it's "How can I do it?". If there is something you identify in the top level players, you shouldn't think "I can't do it that way", if you want to be at that level, you should be looking for any way to change to be part of that.
-
-I think deep down, a lot of the discomfort with change comes from a fear of failure. I understand that, and I have it in other parts of my life. This game has been a safe space for me since I was a child, helping me get away from the parts of my life I didn't feel like I could safely and comfortably fail and improve in. I believe this game is the most beautiful expression of self-improvement and overcoming your own limits. Not everyone in the community will be kind about your experience, and may choose to talk down to you. Some at higher levels, some at lower levels. And I can say simply, they can go fuck themselves, and then come back with a raw ass, and a more humble attitude, and learn to be helpful instead. This opportunity isn't one we should rip away from each other, and we shouldn't tear each other down. I can only hope that as a community, we can be the kind of people who will help people become comfortable, confident, and experience joy with self-improvement. Failure, change and persistence are all part of this journey, and there _are_ correct ways to improve, not all ways are equal, but the way in which we reach those paths needs to be encouraged, not discouraged or mischaracterised.
-
-Surround yourself with people who cheer you on as you go for your goals. Surround yourself with the type of people who, when you fail to meet your goal, won't tell you that you can't, but will try to encourage you and help you to find solutions, and opportunities. And most importantly, be that change. Positively engage with people who are on their improvement journey. Be honest with yourself about what it means to improve, and honest with others, also.
-
-<!-- TOC --><a name="self-improvement"></a>
-### Self-improvement
-
-Finally, self-improvement is the best thing you can get out of this game. My sets often resulted in a lot of anger as I didn't reach my goals. I still have bad days, but they've drastically reduced. I had realised that by becoming angry and sad, I was actually performing _worse_ at the game. It only made sense to then try to control my emotions, and to find ways to focus on things that brought me happier feelings. Now, instead of a miserable, angry breakdown every other set, I'm probably experiencing that once every 20 sets or so. Everything I've written in this guide isn't just 'stuff I do', it's stuff I've decided to do in pursuit of improvement at the game. Using progression in the game as a vehicle for being healthier, fitter, having higher confidence and emotional wellbeing, is amazing. A natural desire to go further in this game can be turned into the best way to become more than you were the day before.
-
 <!-- TOC --><a name="closing"></a>
 ## Closing
-
-I've been afraid to write this guide. Other people have viewed me in a span of ways in my life. Egotistical, self-centred, attention-seeking, insecure, and of course, not particularly verbose. I'm still afraid of the nitpicking, the 'what about'isms, the memeing that comes after someone puts everything out there like this. A lot of the time, I wrestle with the more negative characterisations I've received. I'm writing this because I believe firmly that I understand how to get good at the game and that I've got thoughts that are worth sharing.
 
 In the upper level community, we're not commonly socially sharing the best ways forward. It's my hope to help change that by writing out this absolutely insane dump of brain gunk. If you've read through all of this, thank you very much. If you want to get in contact, please do, I'd be happy to hear from you. You can find me on Stamina Nation under the name Brittany. If you want to quote or use any content from this guide, in any way, feel free to do so.
 
@@ -451,3 +447,5 @@ And here are a few spreadsheets used by the community that help provide some acc
 - [Stamina All Time Ladder](https://docs.google.com/spreadsheets/d/1DVV3T_KZQVqyu5uImaZIaqYC8ruYm1jZl-DWxRQOxXw)
 - [Girls Stamina All Time Ladder](https://docs.google.com/spreadsheets/d/10P5s6uQ0Dd-a7yyUIYrfXCoaG1B_2C3h7yFYuGbCE_o)
 - [ECS Marathon Survivors](https://docs.google.com/spreadsheets/d/1NBN7LQABtDZnugl1SFBpS7Rc2_jEZFmeMRd1gHKRj-Y)
+
+Finally, I would like to shout out the [ITG Wiki](https://itgwiki.dominick.cc) as a consistently tremendous resource on a whole range of topics related to the game.
