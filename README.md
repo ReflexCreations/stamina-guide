@@ -95,7 +95,7 @@ I don't see excuses as something to judge people for. I see them as barriers tha
 
 Excuses aren't sensible. Players of wildly different body types are at the top level, and have no common factors, apart from those of form and session choices, most of which I've tried very much to lay out in this guide. I believe strongly that since none of us are at the physical limit, and no single body type has emerged as the apparent best one, that we're all in uncharted territory, and that just about anyone of reasonable health and non-geriatric age can make it right to the top of the game, should they wish to.
 
-It's also important to remember that an excuse isn't just one that you give for yourself. I'll give a direct example that affected me, and that's 'small feet'. I wear a US7.5 womens. I often heard that big feet were a massive advantage in this game, and even more so for based form. This had a direct influence on me, as a player. It was only after talking to other players that had even smaller feet and had achieved a lot of success that I decided to try the form out for myself, to find that foot size did not affect capability in any noteworthy, meaningfully effective way. How you present your struggles will affect others who relate to you. I think it's best if as a community, we try to act as positive influencers in the pfobfdxxion of others, so I request that anyone reading try their best to avoid making such relations in public spaces.
+It's also important to remember that an excuse isn't just one that you give for yourself. I'll give a direct example that affected me, and that's 'small feet'. I wear a US7.5 womens. I often heard that big feet were a massive advantage in this game, and even more so for based form. This had a direct influence on me, as a player. It was only after talking to other players that had even smaller feet and had achieved a lot of success that I decided to try the form out for myself, to find that foot size did not affect capability in any noteworthy, meaningfully effective way. How you present your struggles will affect others who relate to you. I think it's best if as a community, we try to act as positive influencers in the progression of others, so I request that anyone reading try their best to avoid making such relations in public spaces.
 
 <!-- TOC --><a name="persistence-and-failure"></a>
 ### Persistence and failure
@@ -429,6 +429,8 @@ I like to track data from each song pack. I keep a spreadsheet of song packs tha
 ## Closing
 
 In the upper level community, we're not commonly socially sharing the best ways forward. It's my hope to help change that by writing out this absolutely insane dump of brain gunk. If you've read through all of this, thank you very much. If you want to get in contact, please do, I'd be happy to hear from you. You can find me on Stamina Nation under the name Brittany. If you want to quote or use any content from this guide, in any way, feel free to do so.
+
+There's other stuff I may've missed, and this thing is wordy, and could benefit a great deal from diagrams. So.. pull requests welcome.
 
 <!-- TOC --><a name="resources"></a>
 ## Resources
