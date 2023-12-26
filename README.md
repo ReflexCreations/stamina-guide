@@ -48,9 +48,6 @@
       + [Persistence and failure](#persistence-and-failure)
       + [Self-improvement](#self-improvement)
    * [Closing](#closing)
-   * [And a table of contents](#and-a-table-of-contents)
-   * [On   the right](#on-the-right)
-   * [Use the [TOC]](#use-the-toc)
 
 <!-- TOC end -->
 
