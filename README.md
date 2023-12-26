@@ -48,7 +48,7 @@
       + [Persistence and failure](#persistence-and-failure)
       + [Self-improvement](#self-improvement)
    * [Closing](#closing)
-   * [Resources)](#resources)
+   * [Resources](#resources)
 
 <!-- TOC end -->
 
