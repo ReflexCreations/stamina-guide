@@ -48,6 +48,7 @@
       + [Persistence and failure](#persistence-and-failure)
       + [Self-improvement](#self-improvement)
    * [Closing](#closing)
+   * [Resources)](#resources)
 
 <!-- TOC end -->
 
@@ -432,3 +433,21 @@ Finally, self-improvement is the best thing you can get out of this game. My set
 I've been afraid to write this guide. Other people have viewed me in a span of ways in my life. Egotistical, self-centred, attention-seeking, insecure, and of course, not particularly verbose. I'm still afraid of the nitpicking, the 'what about'isms, the memeing that comes after someone puts everything out there like this. A lot of the time, I wrestle with the more negative characterisations I've received. I'm writing this because I believe firmly that I understand how to get good at the game and that I've got thoughts that are worth sharing.
 
 In the upper level community, we're not commonly socially sharing the best ways forward. It's my hope to help change that by writing out this absolutely insane dump of brain gunk. If you've read through all of this, thank you very much. If you want to get in contact, please do, I'd be happy to hear from you. You can find me on Stamina Nation under the name Brittany. If you want to quote or use any content from this guide, in any way, feel free to do so.
+
+<!-- TOC --><a name="resources"></a>
+## Resources
+
+If you watch the top level players, and try to mimic their form, you'll get good at the game. Here's a list of players' Youtube channels with based form that are at the very top of the game, at time of writing.
+
+- [Levitass](https://www.youtube.com/@kieranitg3159)
+- [Cyxsound](https://www.youtube.com/@CyxITG)
+- [Yuzu](https://www.youtube.com/@yuzuddr5806)
+- [tyler.exe](https://www.youtube.com/@oneflyingpaperboi)
+- [Jwong](https://www.youtube.com/@jowng9014)
+- [Fierra](https://www.youtube.com/@brittanyb839)
+
+And here are a few spreadsheets used by the community that help provide some accolades for tracking achievements
+
+- [Stamina All Time Ladder](https://docs.google.com/spreadsheets/d/1DVV3T_KZQVqyu5uImaZIaqYC8ruYm1jZl-DWxRQOxXw)
+- [Girls Stamina All Time Ladder](https://docs.google.com/spreadsheets/d/10P5s6uQ0Dd-a7yyUIYrfXCoaG1B_2C3h7yFYuGbCE_o)
+- [ECS Marathon Survivors](https://docs.google.com/spreadsheets/d/1NBN7LQABtDZnugl1SFBpS7Rc2_jEZFmeMRd1gHKRj-Y)
